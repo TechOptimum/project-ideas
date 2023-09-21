@@ -4,13 +4,27 @@ This repository is designed to provide practical coding project ideas for develo
 
 ## Table of Contents
 
-- [General Information](#general-information)
-- [Web Development](#web-development)
+1. [Web Development](#web-development)
     - [Beginner](#web-beginner)
     - [Intermediate](#web-intermediate)
     - [Advanced](#web-advanced)
-- [App Development](#app-development) (Coming Soon)
-- [Game Development](#game-development) (Coming Soon)
+2. [App Development](#app-development)
+    - [Beginner](#app-beginner)
+    - [Intermediate](#app-intermediate)
+    - [Advanced](#app-advanced)
+3. [Game Development](#game-development)
+    - [Beginner](#game-beginner)
+    - [Intermediate](#game-intermediate)
+    - [Advanced](#game-advanced)
+4. [Data Science and Machine Learning](#data-science-and-machine-learning)
+    - [Beginner](#ml-beginner)
+    - [Intermediate](#ml-intermediate)
+    - [Advanced](#ml-advanced)
+5. [Robotics](#robotics)
+    - [Beginner](#robotics-beginner)
+    - [Intermediate](#robotics-intermediate)
+    - [Advanced](#robotics-advanced)
+
 
 ---
 
