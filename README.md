@@ -109,7 +109,7 @@ Before starting any project, make sure you have the necessary development enviro
 2. **Music Streaming App**  
     - **Languages**: Swift (iOS), Kotlin (Android)
     - **Description**: Create a music streaming app that allows users to play songs, create playlists, and explore new music.
-    - **Tutorial**: [Music Streaming App Tutorial for Android](https://www.youtube.com/watch?v=Ho8vk7Dc_3M), [Music Streaming App Tutorial for iOS](https://www.youtube.com/watch?v=AIejS9PcvzM)
+    - **Tutorial**: [Music Streaming App Tutorial for Android](https://www.youtube.com/playlist?list=PLs1w5cUPuHqPbA0TG79yCjwFr1eh2rvfZ), [Music Streaming App Tutorial for iOS](https://www.youtube.com/watch?v=g0gmAUzeKBM&pp=ygUZbXVzaWMgc3RyZWFtaW5nIGFwcCBzd2lmdA%3D%3D)
 
 ---
 ## Game Development
@@ -119,24 +119,24 @@ Before starting any project, make sure you have the necessary development enviro
 1. **Pong Clone**  
     - **Languages**: Python (Pygame), C# (Unity)
     - **Description**: Create a simple Pong game clone.
-    - **Tutorial**: [Pong Clone Tutorial for Pygame](https://www.youtube.com/watch?v=4wTgr3K65jc), [Pong Clone Tutorial for Unity](https://www.youtube.com/watch?v=WKlCrN1lMSU)
+    - **Tutorial**: [Pong Clone Tutorial for Pygame](https://www.youtube.com/watch?v=Qf3-aDXG8q4&pp=ygURcG9uZyBjbG9uZSBweWdhbWU%3D), [Pong Clone Tutorial for Unity](https://www.youtube.com/watch?v=X_Hrwcj7G_4&pp=ygUQcG9uZyBjbG9uZSB1bml0eQ%3D%3D)
 
 2. **Snake Game**  
     - **Languages**: Python (Pygame), C# (Unity)
     - **Description**: Create a classic snake game.
-    - **Tutorial**: [Snake Game Tutorial for Pygame](https://www.youtube.com/watch?v=8dfePlONtls), [Snake Game Tutorial for Unity](https://www.youtube.com/watch?v=FdcPIOMO5G8)
+    - **Tutorial**: [Snake Game Tutorial for Pygame](https://www.youtube.com/watch?v=8dfePlONtls), [Snake Game Tutorial for Unity](https://www.youtube.com/watch?v=U8gUnpeaMbQ&pp=ygUQc25ha2UgZ2FtZSB1bml0eQ%3D%3D)
 
 ### Intermediate <a name="game-intermediate"></a>
 
 1. **Platformer Game**  
     - **Languages**: C# (Unity), Godot Script (Godot)
     - **Description**: Create a simple 2D platformer game.
-    - **Tutorial**: [Platformer Game Tutorial for Unity](https://www.youtube.com/watch?v=4HpC--2iowE), [Platformer Game Tutorial for Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk)
+    - **Tutorial**: [Platformer Game Tutorial for Unity](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U), [Platformer Game Tutorial for Godot](https://www.youtube.com/playlist?list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm)
 
 2. **Tower Defense Game**  
     - **Languages**: C# (Unity), Godot Script (Godot)
     - **Description**: Create a Tower Defense game with multiple types of enemies and towers.
-    - **Tutorial**: [Tower Defense Tutorial for Unity](https://www.youtube.com/watch?v=beuoNuK2tbk), [Tower Defense Tutorial for Godot](https://www.youtube.com/watch?v=mOckdKp3V38)
+    - **Tutorial**: [Tower Defense Tutorial for Unity]([https://www.youtube.com/watch?v=beuoNuK2tbk](https://www.youtube.com/playlist?list=PLOoQ0JTWjALT3zszHzGqXlyB2vSYBkuzv)), [Tower Defense Tutorial for Godot](https://www.youtube.com/playlist?list=PLZ-54sd-DMAJltIzTtZ6ZhC-9hkqYXyp6)
 
 ### Advanced <a name="game-advanced"></a>
 
