@@ -53,7 +53,7 @@ Before starting any project, make sure you have the necessary development enviro
 1. **Blogging Platform**  
     - **Languages**: JavaScript (Node.js, Express), HTML, CSS  
     - **Description**: Create a simple blogging platform where users can post articles, comment, and like posts.  
-    - **Tutorial**: [Blogging Platform Tutorial](https://www.youtube.com/watch?v=fyGSdgsw7vE)
+    - **Tutorial**: [Blogging Platform Tutorial](https://www.youtube.com/watch?v=7iWlCl35p9o)
 
 2. **Chat Application**  
     - **Languages**: JavaScript (Node.js, Socket.io), HTML, CSS  
@@ -65,12 +65,12 @@ Before starting any project, make sure you have the necessary development enviro
 1. **E-commerce Platform**  
     - **Languages**: JavaScript (React, Node.js), HTML, CSS  
     - **Description**: Build a full-fledged e-commerce platform with features like product search, user authentication, and online payment.  
-    - **Tutorial**: [E-commerce Platform Tutorial](https://www.youtube.com/watch?v=-edmQK9Tk8U)
+    - **Tutorial**: [E-commerce Platform Tutorial](https://www.youtube.com/playlist?list=PLdAEGQHOerPAs67GJpgopqHhIjPk7rW7d)
 
 2. **Social Media Dashboard**  
     - **Languages**: JavaScript (React, Node.js), HTML, CSS  
     - **Description**: Build a dashboard that aggregates content from various social media sources using their APIs.  
-    - **Tutorial**: [Social Media Dashboard Tutorial](https://www.youtube.com/watch?v=8tCfpw1INsI)
+    - **Tutorial**: [Social Media Dashboard Tutorial](https://www.youtube.com/watch?v=jx5hdo50a2M&pp=ygUmc29jaWFsIG1lZGlhIGRhc2hib2FyZCBuZXh0anMgdHV0b3JpYWw%3D)
 
 ---
 ## App Development
@@ -80,12 +80,12 @@ Before starting any project, make sure you have the necessary development enviro
 1. **Counter App**  
     - **Languages**: Swift (iOS), Kotlin (Android)
     - **Description**: Create a simple counter app that allows you to increment, decrement, and reset a counter.
-    - **Tutorial**: [Counter App Tutorial for Android](https://www.youtube.com/watch?v=I6_zG5ub10I), [Counter App Tutorial for iOS](https://www.youtube.com/watch?v=09TeUXjzpKs)
+    - **Tutorial**: [Counter App Tutorial for Android](https://www.youtube.com/watch?v=ti3I-A0bVRU&pp=ygUcY291bnRlciBhcHAgdHV0b3JpYWwgYW5kcm9pZA%3D%3D), [Counter App Tutorial for iOS](https://www.youtube.com/watch?v=P3Fs-oOLzHs&pp=ygUYY291bnRlciBhcHAgdHV0b3JpYWwgaW9z)
 
 2. **Tip Calculator**  
     - **Languages**: Swift (iOS), Kotlin (Android)
     - **Description**: Create a tip calculator app that takes a bill amount and tip percentage, then calculates the total bill.
-    - **Tutorial**: [Tip Calculator Tutorial for Android](https://www.youtube.com/watch?v=2ZZqP75MLec), [Tip Calculator Tutorial for iOS](https://www.youtube.com/watch?v=4CbcMZOSmEk)
+    - **Tutorial**: [Tip Calculator Tutorial for Android](https://www.youtube.com/playlist?list=PLsF3G8o7POZycuJ9I6T8EMU46GbL1atBO), [Tip Calculator Tutorial for iOS](https://www.youtube.com/playlist?list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX)
 
 ### Intermediate <a name="app-intermediate"></a>
 
@@ -97,14 +97,14 @@ Before starting any project, make sure you have the necessary development enviro
 2. **Weather App**  
     - **Languages**: Swift (iOS), Kotlin (Android)
     - **Description**: Create an app that fetches weather information using an API and displays it.
-    - **Tutorial**: [Weather App Tutorial for Android](https://www.youtube.com/watch?v=8K-ekvgba7g), [Weather App Tutorial for iOS](https://www.youtube.com/watch?v=7W4fp46nOzA)
+    - **Tutorial**: [Weather App Tutorial for Android](https://www.youtube.com/watch?v=Xfg6WKek80w&pp=ygUSd2VhdGhlciBhcHAga290bGlu), [Weather App Tutorial for iOS](https://www.youtube.com/watch?v=X2W9MPjrIbk&pp=ygUPd2VhdGhlciBhcHAgaW9z)
 
 ### Advanced <a name="app-advanced"></a>
 
 1. **Chat Application**  
     - **Languages**: Swift (iOS), Kotlin (Android)
     - **Description**: Build a chat application that allows real-time messaging, image sharing, and notifications.
-    - **Tutorial**: [Chat App Tutorial for Android](https://www.youtube.com/watch?v=F6UWb9aFSsI), [Chat App Tutorial for iOS](https://www.youtube.com/watch?v=6F-fnO6Nt5o)
+    - **Tutorial**: [Chat App Tutorial for Android](https://www.youtube.com/watch?v=8Pv96bvBJL4&pp=ygUPY2hhdCBhcHAga290bGlu), [Chat App Tutorial for iOS](https://www.youtube.com/playlist?list=PL5PR3UyfTWvdlk-Qi-dPtJmjTj-2YIMMf)
 
 2. **Music Streaming App**  
     - **Languages**: Swift (iOS), Kotlin (Android)
