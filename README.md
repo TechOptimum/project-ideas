@@ -137,6 +137,48 @@ Before starting any project, make sure you have the necessary development enviro
     - **Tutorial**: [RPG Tutorial for Unity](https://www.youtube.com/watch?v=HOGA6aSKXv8), [RPG Tutorial for Unreal Engine](https://www.youtube.com/watch?v=NZZtMNdJk5o)
 
 ---
+## Data Science and Machine Learning
+
+### Beginner <a name="ml-beginner"></a>
+
+1. **Iris Flower Classification**  
+    - **Languages**: Python (scikit-learn)
+    - **Description**: Classify iris flowers into one of three species based on their features.
+    - **Tutorial**: [Iris Flower Classification Tutorial](https://www.youtube.com/watch?v=hd1W4CyPX58)
+
+2. **Sentiment Analysis**  
+    - **Languages**: Python (NLTK, scikit-learn)
+    - **Description**: Create a sentiment analysis model to classify movie reviews as either positive or negative.
+    - **Tutorial**: [Sentiment Analysis Tutorial](https://www.youtube.com/watch?v=xvqsFTUsOmc)
+
+### Intermediate <a name="ml-intermediate"></a>
+
+1. **Image Recognition with CNNs**  
+    - **Languages**: Python (TensorFlow, Keras)
+    - **Description**: Build a Convolutional Neural Network (CNN) to recognize and classify images.
+    - **Tutorial**: [Image Recognition Tutorial](https://www.youtube.com/watch?v=3yfRJKA1BiQ)
+
+2. **Stock Price Prediction**  
+    - **Languages**: Python (TensorFlow, Pandas)
+    - **Description**: Use historical stock price data to predict future prices.
+    - **Tutorial**: [Stock Price Prediction Tutorial](https://www.youtube.com/watch?v=QIUxPv5PJOY)
+
+### Advanced <a name="ml-advanced"></a>
+
+1. **Chatbot with Sequence-to-Sequence Model**  
+    - **Languages**: Python (TensorFlow, Keras)
+    - **Description**: Build a chatbot using sequence-to-sequence learning.
+    - **Tutorial**: [Chatbot Tutorial](https://www.youtube.com/watch?v=RpWeNzfSUHw)
+
+2. **Real-Time Object Detection**  
+    - **Languages**: Python (TensorFlow, OpenCV)
+    - **Description**: Create a real-time object detection system.
+    - **Tutorial**: [Real-Time Object Detection Tutorial](https://www.youtube.com/watch?v=IOI0o3Cxv9Q)
+
+---
+
+
+
 
 Feel free to contribute to this list by submitting a pull request!
 
