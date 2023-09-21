@@ -98,5 +98,47 @@ Before starting any project, make sure you have the necessary development enviro
     - **Tutorial**: [Music Streaming App Tutorial for Android](https://www.youtube.com/watch?v=Ho8vk7Dc_3M), [Music Streaming App Tutorial for iOS](https://www.youtube.com/watch?v=AIejS9PcvzM)
 
 ---
+## Game Development
+
+### Beginner <a name="game-beginner"></a>
+
+1. **Pong Clone**  
+    - **Languages**: Python (Pygame), C# (Unity)
+    - **Description**: Create a simple Pong game clone.
+    - **Tutorial**: [Pong Clone Tutorial for Pygame](https://www.youtube.com/watch?v=4wTgr3K65jc), [Pong Clone Tutorial for Unity](https://www.youtube.com/watch?v=WKlCrN1lMSU)
+
+2. **Snake Game**  
+    - **Languages**: Python (Pygame), C# (Unity)
+    - **Description**: Create a classic snake game.
+    - **Tutorial**: [Snake Game Tutorial for Pygame](https://www.youtube.com/watch?v=8dfePlONtls), [Snake Game Tutorial for Unity](https://www.youtube.com/watch?v=FdcPIOMO5G8)
+
+### Intermediate <a name="game-intermediate"></a>
+
+1. **Platformer Game**  
+    - **Languages**: C# (Unity), Godot Script (Godot)
+    - **Description**: Create a simple 2D platformer game.
+    - **Tutorial**: [Platformer Game Tutorial for Unity](https://www.youtube.com/watch?v=4HpC--2iowE), [Platformer Game Tutorial for Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk)
+
+2. **Tower Defense Game**  
+    - **Languages**: C# (Unity), Godot Script (Godot)
+    - **Description**: Create a Tower Defense game with multiple types of enemies and towers.
+    - **Tutorial**: [Tower Defense Tutorial for Unity](https://www.youtube.com/watch?v=beuoNuK2tbk), [Tower Defense Tutorial for Godot](https://www.youtube.com/watch?v=mOckdKp3V38)
+
+### Advanced <a name="game-advanced"></a>
+
+1. **Multiplayer FPS Game**  
+    - **Languages**: C# (Unity), UnrealScript (Unreal Engine)
+    - **Description**: Build a first-person shooter (FPS) with multiplayer capabilities.
+    - **Tutorial**: [FPS Tutorial for Unity](https://www.youtube.com/watch?v=iSxifRK7TB0), [FPS Tutorial for Unreal Engine](https://www.youtube.com/watch?v=abmzWUWxy1U)
+
+2. **RPG Game**  
+    - **Languages**: C# (Unity), UnrealScript (Unreal Engine)
+    - **Description**: Create an RPG game with quests, multiple characters, and advanced game mechanics.
+    - **Tutorial**: [RPG Tutorial for Unity](https://www.youtube.com/watch?v=HOGA6aSKXv8), [RPG Tutorial for Unreal Engine](https://www.youtube.com/watch?v=NZZtMNdJk5o)
+
+---
 
 Feel free to contribute to this list by submitting a pull request!
+
+
+
