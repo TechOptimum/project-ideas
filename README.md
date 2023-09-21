@@ -176,11 +176,49 @@ Before starting any project, make sure you have the necessary development enviro
     - **Tutorial**: [Real-Time Object Detection Tutorial](https://www.youtube.com/watch?v=IOI0o3Cxv9Q)
 
 ---
+## Robotics
 
+### Beginner <a name="robotics-beginner"></a>
 
+1. **Line Follower Robot**  
+    - **Languages**: C/C++ (Arduino)
+    - **Description**: Create a robot that follows a line or path on the ground.
+    - **Tutorial**: [Line Follower Robot Tutorial](https://www.youtube.com/watch?v=5IK4e0elJt4)
 
+2. **Obstacle Avoiding Robot**  
+    - **Languages**: C/C++ (Arduino)
+    - **Description**: Build a robot that can navigate around obstacles.
+    - **Tutorial**: [Obstacle Avoiding Robot Tutorial](https://www.youtube.com/watch?v=Q_OjXmGW5y8)
+
+### Intermediate <a name="robotics-intermediate"></a>
+
+1. **Remote-Controlled Robot**  
+    - **Languages**: Python (Raspberry Pi), C/C++ (Arduino)
+    - **Description**: Create a robot that can be controlled remotely using a smartphone or computer.
+    - **Tutorial**: [Remote-Controlled Robot Tutorial](https://www.youtube.com/watch?v=7LmGYjJzzcY)
+
+2. **Ball and Plate Balancing System**  
+    - **Languages**: C/C++ (Arduino), Python (Optional for additional features)
+    - **Description**: Develop a system that keeps a ball balanced on a plate.
+    - **Tutorial**: [Ball and Plate Tutorial](https://www.youtube.com/watch?v=VvAL-9Bt0rE)
+
+### Advanced <a name="robotics-advanced"></a>
+
+1. **Robot Arm Manipulator**  
+    - **Languages**: Python (ROS), C/C++ (Arduino)
+    - **Description**: Design a robot arm that can pick up and manipulate objects.
+    - **Tutorial**: [Robot Arm Manipulator Tutorial](https://www.youtube.com/watch?v=2kagk5SGwOo)
+
+2. **Autonomous Drone**  
+    - **Languages**: Python (ROS, OpenCV)
+    - **Description**: Build a drone that can navigate autonomously in an environment.
+    - **Tutorial**: [Autonomous Drone Tutorial](https://www.youtube.com/watch?v=PLQ1uLc_vd8)
+
+---
 
 Feel free to contribute to this list by submitting a pull request!
+
+
 
 
 
