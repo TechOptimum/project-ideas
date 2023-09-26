@@ -43,7 +43,12 @@ Before starting any project, make sure you have the necessary development enviro
     - **Description**: Create a simple to-do list where you can add and remove tasks.  
     - **Tutorial**: [To-Do List Tutorial](https://www.w3schools.com/howto/howto_js_todolist.asp)
 
-2. **Weather App**  
+2. **Calculator**
+    - **Languages**: HTML, CSS, JavaScript
+    - **Description**: Create a simple calculator that can do basic mathematical operations.
+    - **Tutorial**: [Calculator Tutorial](https://www.youtube.com/watch?v=j59qQ7YWLxw)
+
+3. **Weather App**  
     - **Languages**: HTML, CSS, JavaScript  
     - **Description**: Create an app that fetches weather information using an API and displays it.  
     - **Tutorial**: [Weather App Tutorial](https://www.youtube.com/watch?v=wPElVpR1rwA)
