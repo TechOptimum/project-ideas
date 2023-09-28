@@ -1,0 +1,17 @@
+[
+   {
+    "slug": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "description": "Full Stack Developer",
+    "folderPath": "full-stack-developer",
+    "image": "https://i.imgur.com/8Z3Z1ZP.png"
+   },
+   {
+    "slug": "front-end-developer",
+    "title": "Front End Developer",
+    "description": "Front End Developer",
+    "folderPath": "front-end-developer",
+    "image": "https://i.imgur.com/8Z3Z1ZP.png"
+   }
+  ]
+  
